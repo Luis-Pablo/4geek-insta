@@ -1,0 +1,42 @@
+body {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+.container {
+    width: 400px;
+    height: 700px;
+    align-content: center;
+    padding: 3px;
+}
+
+.header  {
+    display: flex;
+    width: 400px;
+    height: 40px;
+    padding-top: 4px;
+    padding-bottom: 4px;    
+}
+.parrafo {
+    width: 100px;
+    height: 40px;
+    margin-top: 1px;
+    
+}
+#html {
+   width: 40px;
+   height: 40px;
+   font-size: xx-large;
+   margin-top: 1px;
+   
+}
+img {
+    width:400px;
+    height: 400px;
+}
+
+.contenedor {
+    width: 400px;
+    padding: 5px;
+}
