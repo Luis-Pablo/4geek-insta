@@ -47,3 +47,13 @@ img {
     width: 400px;
     padding: 5px;
 }
+
+.guardar {
+    align-items: flex-end;
+    margin-left: 280px;
+    
+}
+
+.icon {
+    display: flex;
+}
