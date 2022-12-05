@@ -22,6 +22,7 @@ body {
     width: 100px;
     height: 40px;
     margin-top: 1px;
+    margin-right: 250px;
     
 }
 #html {
@@ -31,6 +32,12 @@ body {
    margin-top: 1px;
    
 }
+
+#punto {
+    align-content: flex-end;
+
+}
+    
 img {
     width:400px;
     height: 400px;
