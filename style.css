@@ -7,8 +7,8 @@ body {
 .container {
     width: 400px;
     height: 700px;
-    align-content: center;
-    padding: 3px;
+    
+   
 }
 
 .header  {
@@ -23,6 +23,7 @@ body {
     height: 40px;
     margin-top: 1px;
     margin-right: 250px;
+    font-size: medium;
     
 }
 #html {
@@ -33,11 +34,8 @@ body {
    
 }
 
-#punto {
-    align-content: flex-end;
 
-}
-    
+ 
 img {
     width:400px;
     height: 400px;
@@ -54,6 +52,3 @@ img {
     
 }
 
-.icon {
-    display: flex;
-}
